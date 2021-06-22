@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import redis
 from time import (time, sleep)
 
